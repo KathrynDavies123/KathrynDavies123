@@ -39,7 +39,8 @@ I completed a Front-End Bootcamp in October 2022 and I am now continuing to prac
 
 ##### Movie Database - Group final project making a movie database website using MovieDB API
 * [Repo](https://github.com/KathrynDavies123/mov)
-* [Page](https://comforting-bombolone-f53d32.netlify.app)
+* [Page](https://comforting-bombolone-f53d32.netlify.app)![moviedb screenshot](https://user-images.githubusercontent.com/103680044/203564443-c9a1424f-a1ce-44de-b527-2a36fed5b73b.PNG)
+
 
 ### Front-End Mentor Projects
 
