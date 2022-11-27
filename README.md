@@ -58,3 +58,9 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 ##### News Homepage - some JS used for mobile burger menu
 * [Repo](https://github.com/KathrynDavies123/news-homepage-main)
 * [Page](https://kathryndavies123.github.io/news-homepage-main/)
+
+#### Javascript : 
+
+##### FAQ Accordion Component
+* [Repo](https://github.com/KathrynDavies123/faq-accordion-card)
+* [Page](https://kathryndavies123.github.io/faq-accordion-card/)
