@@ -64,3 +64,7 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 ##### FAQ Accordion Component
 * [Repo](https://github.com/KathrynDavies123/faq-accordion-card)
 * [Page](https://kathryndavies123.github.io/faq-accordion-card/)
+
+##### Interactive Rating Component
+* [Repo](https://github.com/KathrynDavies123/interactive-rating-component)
+* [Page](https://kathryndavies123.github.io/interactive-rating-component/)
