@@ -67,6 +67,7 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ##### Interactive Rating Component
 * [Repo](https://github.com/KathrynDavies123/interactive-rating-component)
-* [Page](https://kathryndavies123.github.io/interactive-rating-component/)
+* [Page](https://kathryndavies123.github.io/interactive-rating-component/)  
+
 ![rating](https://user-images.githubusercontent.com/103680044/204277599-90dce12a-3058-45bd-8a3b-0d93f1a03a0c.JPG)![rating2](https://user-images.githubusercontent.com/103680044/204277675-61658263-19a1-42ac-8463-8b5f5e9e3bed.JPG)
 
