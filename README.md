@@ -55,6 +55,10 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 * [Repo](https://github.com/KathrynDavies123/nft-preview-card-component)
 * [Page](https://kathryndavies123.github.io/nft-preview-card-component/)
 
+##### Social Proof / Reviews component
+* [Repo](https://github.com/KathrynDavies123/social-proof-section)
+* [Page](https://kathryndavies123.github.io/social-proof-section/)
+
 ##### News Homepage - some JS used for mobile burger menu
 * [Repo](https://github.com/KathrynDavies123/news-homepage-main)
 * [Page](https://kathryndavies123.github.io/news-homepage-main/)
