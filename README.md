@@ -63,7 +63,9 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ##### Social Proof / Reviews component
 * [Repo](https://github.com/KathrynDavies123/social-proof-section)
-* [Page](https://kathryndavies123.github.io/social-proof-section/)
+* [Page](https://kathryndavies123.github.io/social-proof-section/)  
+
+![Screenshot 2022-11-30 150652](https://user-images.githubusercontent.com/103680044/204816994-4418563e-acee-433a-b4ca-c6b50a56772c.png)
 
 ##### News Homepage - some JS used for mobile burger menu
 * [Repo](https://github.com/KathrynDavies123/news-homepage-main)
