@@ -5,7 +5,7 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ### Bootcamp projects: 
 
-#### HTML & CSS :
+### HTML & CSS :
 
 ##### Coffee & Co - Landing page with fixed backgrounds (not responsive)
 * [Repo](https://github.com/KathrynDavies123/coffee-co)
@@ -15,24 +15,24 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 * [Repo](https://github.com/KathrynDavies123/chomp-responsive)
 * [Page](https://kathryndavies123.github.io/chomp-responsive/)
 
-#### Javascript :
+### Javascript :
 
 ##### Rock Paper Scissors - Interactive game where the player competes against the computer
 * [Repo](https://github.com/KathrynDavies123/RockPaperScissorsv2)
 * [Page](https://kathryndavies123.github.io/RockPaperScissorsv2/)
 
-#### React :
+### React :
 
 ##### React Movie Database - Movie info pulled from a static array, displayed using React components, with various sorting buttons
 * [Repo](https://github.com/KathrynDavies123/movies-database-react)
 * [Page](https://stately-conkies-618f01.netlify.app)
 
-#### JS & APIs : 
+### JS & APIs : 
 
 ##### Harvard Museum API - Page displaying various art works using API data. Works shown can be filtered by various categories
 * [Repo](https://github.com/KathrynDavies123/harvard-museum-api)![Capture](https://user-images.githubusercontent.com/103680044/203561741-4faa2cba-23ef-444e-8d72-351610c66f30.PNG)
 
-#### React & APIs : 
+### React & APIs : 
 
 ##### Beer API - Beer database site using the beer API and React
 * [Repo](https://github.com/KathrynDavies123/react-beer-api)
@@ -45,7 +45,7 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ### Front-End Mentor Projects
 
-#### HTML & CSS :
+### HTML & CSS :
 
 ##### Product Preview Card Component
 * [Repo](https://github.com/KathrynDavies123/product-preview-card-component-main)
@@ -71,7 +71,7 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 * [Repo](https://github.com/KathrynDavies123/news-homepage-main)
 * [Page](https://kathryndavies123.github.io/news-homepage-main/)
 
-#### Javascript : 
+### Javascript : 
 
 ##### FAQ Accordion Component
 * [Repo](https://github.com/KathrynDavies123/faq-accordion-card)
