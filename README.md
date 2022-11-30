@@ -57,7 +57,9 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ##### Four Card Feature Component 
 * [Repo](https://github.com/KathrynDavies123/four-card-feature-section)
-* [Page](https://kathryndavies123.github.io/four-card-feature-section/)
+* [Page](https://kathryndavies123.github.io/four-card-feature-section/)  
+
+![Screenshot 2022-11-30 150540](https://user-images.githubusercontent.com/103680044/204816761-0b369566-ff18-4f52-90b2-90de32827f28.png)
 
 ##### Social Proof / Reviews component
 * [Repo](https://github.com/KathrynDavies123/social-proof-section)
