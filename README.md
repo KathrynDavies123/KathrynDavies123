@@ -71,7 +71,9 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ##### FAQ Accordion Component
 * [Repo](https://github.com/KathrynDavies123/faq-accordion-card)
-* [Page](https://kathryndavies123.github.io/faq-accordion-card/)
+* [Page](https://kathryndavies123.github.io/faq-accordion-card/)  
+
+![Screenshot 2022-11-30 150408](https://user-images.githubusercontent.com/103680044/204816465-0c0eb765-9224-4f59-ad30-32c0c2795595.png)
 
 ##### Interactive Rating Component
 * [Repo](https://github.com/KathrynDavies123/interactive-rating-component)
