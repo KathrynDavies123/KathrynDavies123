@@ -55,6 +55,10 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 * [Repo](https://github.com/KathrynDavies123/nft-preview-card-component)
 * [Page](https://kathryndavies123.github.io/nft-preview-card-component/)
 
+##### Four Card Feature Component 
+* [Repo](https://github.com/KathrynDavies123/four-card-feature-section)
+* [Page](https://kathryndavies123.github.io/four-card-feature-section/)
+
 ##### Social Proof / Reviews component
 * [Repo](https://github.com/KathrynDavies123/social-proof-section)
 * [Page](https://kathryndavies123.github.io/social-proof-section/)
