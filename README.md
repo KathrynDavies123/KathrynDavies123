@@ -85,3 +85,9 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ![rating](https://user-images.githubusercontent.com/103680044/204277599-90dce12a-3058-45bd-8a3b-0d93f1a03a0c.JPG)![rating2](https://user-images.githubusercontent.com/103680044/204277675-61658263-19a1-42ac-8463-8b5f5e9e3bed.JPG)
 
+##### Sign up component
+* [Repo](https://github.com/KathrynDavies123/intro-sign-up-form-component)
+* [Page](https://kathryndavies123.github.io/intro-sign-up-form-component/)  
+
+![Capture](https://user-images.githubusercontent.com/103680044/205615114-b06bf8d6-323d-4410-b54e-ab721e84a8c5.JPG) 
+![Capture2](https://user-images.githubusercontent.com/103680044/205615316-1b364075-842e-469c-95ca-d354e2bf1e6a.JPG)
