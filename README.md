@@ -91,3 +91,8 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ![Capture](https://user-images.githubusercontent.com/103680044/205615114-b06bf8d6-323d-4410-b54e-ab721e84a8c5.JPG) 
 ![Capture2](https://user-images.githubusercontent.com/103680044/205615316-1b364075-842e-469c-95ca-d354e2bf1e6a.JPG)
+
+##### Notifications page
+* [Repo](https://github.com/KathrynDavies123/notification-page)
+* [Page](https://kathryndavies123.github.io/notification-page/)  
+![Screenshot 2022-12-05 164944](https://user-images.githubusercontent.com/103680044/205680949-9230ea27-0558-42da-9d4e-55774de8b1c6.png)
