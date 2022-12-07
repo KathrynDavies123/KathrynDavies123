@@ -96,3 +96,8 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 * [Repo](https://github.com/KathrynDavies123/notification-page)
 * [Page](https://kathryndavies123.github.io/notification-page/)  
 ![Screenshot 2022-12-05 164944](https://user-images.githubusercontent.com/103680044/205680949-9230ea27-0558-42da-9d4e-55774de8b1c6.png)
+
+##### Expenses chart component - Data generated dynamically from a JSON file
+* [Repo](https://github.com/KathrynDavies123/expenses-chart)
+* [Page](https://kathryndavies123.github.io/expenses-chart/)  
+![Screenshot 2022-12-07 152011](https://user-images.githubusercontent.com/103680044/206203346-04631be1-1b32-48f6-aa4f-4ef2a866a923.png)
