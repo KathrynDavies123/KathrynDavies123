@@ -101,3 +101,9 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 * [Repo](https://github.com/KathrynDavies123/expenses-chart)
 * [Page](https://kathryndavies123.github.io/expenses-chart/)  
 ![Screenshot 2022-12-07 152011](https://user-images.githubusercontent.com/103680044/206203346-04631be1-1b32-48f6-aa4f-4ef2a866a923.png)
+
+##### Intro page with burger menu on mobile and drop down nav menus
+* [Repo](https://github.com/KathrynDavies123/intro-section-with-drop-down-menus)
+* [Page](https://kathryndavies123.github.io/intro-section-with-drop-down-menus/)  
+![Capture5](https://user-images.githubusercontent.com/103680044/206699987-bc1e8a8a-51b2-45e9-8f32-cb19d47b2e53.JPG)
+![Capture7](https://user-images.githubusercontent.com/103680044/206700095-ea57855c-164f-4b72-bb6d-37607f6c3c9f.JPG)
