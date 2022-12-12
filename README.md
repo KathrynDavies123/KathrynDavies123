@@ -3,7 +3,23 @@
 I completed a Front-End Bootcamp in October 2022 and I am now continuing to practice and develop my skills using Front End Mentor. 
 I am confident making use of HTML, CSS and Javascript, but I still have a lot to learn with React. 
 
-### Notable Projects
+### Full Projects
+
+##### Intro page with burger menu on mobile and drop down nav menus (HTML, CSS & Javascript)
+* [Repo](https://github.com/KathrynDavies123/intro-section-with-drop-down-menus)
+* [Page](https://kathryndavies123.github.io/intro-section-with-drop-down-menus/)  
+![Capture5](https://user-images.githubusercontent.com/103680044/206699987-bc1e8a8a-51b2-45e9-8f32-cb19d47b2e53.JPG)
+![Capture7](https://user-images.githubusercontent.com/103680044/206700095-ea57855c-164f-4b72-bb6d-37607f6c3c9f.JPG)
+
+##### Rock Paper Scissors (Javascript Vanilla) - Interactive game where the player competes against the computer
+* [Repo](https://github.com/KathrynDavies123/RockPaperScissorsv2)
+* [Page](https://kathryndavies123.github.io/RockPaperScissorsv2/)
+
+##### Movie Database - (React / API) - Group final project making a movie database website using MovieDB API
+* [Repo](https://github.com/KathrynDavies123/mov)
+* [Page](https://comforting-bombolone-f53d32.netlify.app)![moviedb screenshot](https://user-images.githubusercontent.com/103680044/203564443-c9a1424f-a1ce-44de-b527-2a36fed5b73b.PNG)
+
+### Components/Pages
 
 ### HTML & CSS :
 
@@ -27,7 +43,7 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ![Screenshot 2022-11-30 150652](https://user-images.githubusercontent.com/103680044/204816994-4418563e-acee-433a-b4ca-c6b50a56772c.png)
 
-##### News Homepage - some JS used for mobile burger menu
+##### News Homepage (HTML & CSS) - some JS used for mobile burger menu
 * [Repo](https://github.com/KathrynDavies123/news-homepage-main)
 * [Page](https://kathryndavies123.github.io/news-homepage-main/)
 
@@ -68,10 +84,6 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 ![Capture5](https://user-images.githubusercontent.com/103680044/206699987-bc1e8a8a-51b2-45e9-8f32-cb19d47b2e53.JPG)
 ![Capture7](https://user-images.githubusercontent.com/103680044/206700095-ea57855c-164f-4b72-bb6d-37607f6c3c9f.JPG)
 
-##### Rock Paper Scissors - Interactive game where the player competes against the computer
-* [Repo](https://github.com/KathrynDavies123/RockPaperScissorsv2)
-* [Page](https://kathryndavies123.github.io/RockPaperScissorsv2/)
-
 ### React :
 
 ##### React Movie Database - Movie info pulled from a static array, displayed using React components, with various sorting buttons
@@ -88,7 +100,3 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 ##### Beer API - Beer database site using the beer API and React
 * [Repo](https://github.com/KathrynDavies123/react-beer-api)
 * [Page](https://illustrious-panda-46531a.netlify.app)
-
-##### Movie Database - Group final project making a movie database website using MovieDB API
-* [Repo](https://github.com/KathrynDavies123/mov)
-* [Page](https://comforting-bombolone-f53d32.netlify.app)![moviedb screenshot](https://user-images.githubusercontent.com/103680044/203564443-c9a1424f-a1ce-44de-b527-2a36fed5b73b.PNG)
