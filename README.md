@@ -5,6 +5,12 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 
 ### Full Projects
 
+##### Elearning Landing Page
+* [Repo](https://github.com/KathrynDavies123/skilled-elearning-page)
+* [Page](https://kathryndavies123.github.io/skilled-elearning-page/)  
+* ![image](https://user-images.githubusercontent.com/103680044/207830171-907b4c75-a652-4342-bc2e-07f1b82172b9.png)
+
+
 ##### Intro page with burger menu on mobile and drop down nav menus (HTML, CSS & Javascript)
 * [Repo](https://github.com/KathrynDavies123/intro-section-with-drop-down-menus)
 * [Page](https://kathryndavies123.github.io/intro-section-with-drop-down-menus/)  
