@@ -10,6 +10,11 @@ I am confident making use of HTML, CSS and Javascript, but I still have a lot to
 * [Page](https://kathryndavies123.github.io/skilled-elearning-page/)  
 * ![image](https://user-images.githubusercontent.com/103680044/207830171-907b4c75-a652-4342-bc2e-07f1b82172b9.png)
 
+##### Design Portfolio Page with vanilla JS image gallery
+* [Repo](https://github.com/KathrynDavies123/design-portfolio-landing-page)
+* [Page](https://kathryndavies123.github.io/design-portfolio-landing-page/)  
+![image](https://user-images.githubusercontent.com/103680044/208662737-d81bc96e-6c20-4289-bba2-5e2f975424a5.png)
+
 
 ##### Intro page with burger menu on mobile and drop down nav menus (HTML, CSS & Javascript)
 * [Repo](https://github.com/KathrynDavies123/intro-section-with-drop-down-menus)
