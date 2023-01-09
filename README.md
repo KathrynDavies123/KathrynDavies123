@@ -9,7 +9,7 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 
 ##### Elearning Landing Page
 * [Repo](https://github.com/KathrynDavies123/skilled-elearning-page)
-* [Page](https://kathryndavies123.github.io/skilled-elearning-page/)  
+* [Page](https://kathryndavies123.github.io/design-portfolio-landing-page/)  
 * ![image](https://user-images.githubusercontent.com/103680044/207830171-907b4c75-a652-4342-bc2e-07f1b82172b9.png)
 
 ##### Design Portfolio Page with vanilla JS image gallery
