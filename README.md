@@ -63,7 +63,6 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 * [Repo](https://github.com/KathrynDavies123/intro-sign-up-form-component)
 * [Page](https://kathryndavies123.github.io/intro-sign-up-form-component/)  
 
-![Capture](https://user-images.githubusercontent.com/103680044/205615114-b06bf8d6-323d-4410-b54e-ab721e84a8c5.JPG) 
 ![Capture2](https://user-images.githubusercontent.com/103680044/205615316-1b364075-842e-469c-95ca-d354e2bf1e6a.JPG)
 
 ##### Notifications page
@@ -79,6 +78,7 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 ##### Time tracking dashboard - completely responsive - data pulled dynamically from JSON file
 * [Repo](https://github.com/KathrynDavies123/time-tracking-dashboard)
 * [Page](https://kathryndavies123.github.io/time-tracking-dashboard/)
+![Capture6](https://user-images.githubusercontent.com/103680044/212973659-2efa8283-2116-4178-8855-48901eed6da9.JPG)
 
 ### React :
 
