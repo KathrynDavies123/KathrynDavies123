@@ -17,7 +17,6 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 * [Page](https://kathryndavies123.github.io/design-portfolio-landing-page/)  
 ![image](https://user-images.githubusercontent.com/103680044/208662737-d81bc96e-6c20-4289-bba2-5e2f975424a5.png)
 
-
 ##### Intro page with burger menu on mobile and drop down nav menus (HTML, CSS & Javascript)
 * [Repo](https://github.com/KathrynDavies123/intro-section-with-drop-down-menus)
 * [Page](https://kathryndavies123.github.io/intro-section-with-drop-down-menus/)  
@@ -35,20 +34,6 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 ### Components/Pages
 
 ### HTML & CSS :
-
-##### Product Preview Card Component
-* [Repo](https://github.com/KathrynDavies123/product-preview-card-component-main)
-* [Page](https://kathryndavies123.github.io/product-preview-card-component-main/)
-
-##### NFT Preview Card Component
-* [Repo](https://github.com/KathrynDavies123/nft-preview-card-component)
-* [Page](https://kathryndavies123.github.io/nft-preview-card-component/)
-
-##### Four Card Feature Component 
-* [Repo](https://github.com/KathrynDavies123/four-card-feature-section)
-* [Page](https://kathryndavies123.github.io/four-card-feature-section/)  
-
-![Screenshot 2022-11-30 150540](https://user-images.githubusercontent.com/103680044/204816761-0b369566-ff18-4f52-90b2-90de32827f28.png)
 
 ##### Social Proof / Reviews component
 * [Repo](https://github.com/KathrynDavies123/social-proof-section)
@@ -90,6 +75,10 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 * [Repo](https://github.com/KathrynDavies123/expenses-chart)
 * [Page](https://kathryndavies123.github.io/expenses-chart/)  
 ![Screenshot 2022-12-07 152011](https://user-images.githubusercontent.com/103680044/206203346-04631be1-1b32-48f6-aa4f-4ef2a866a923.png)
+
+##### Time tracking dashboard - completely responsive - data pulled dynamically from JSON file
+* [Repo](https://github.com/KathrynDavies123/time-tracking-dashboard)
+* [Page](https://kathryndavies123.github.io/time-tracking-dashboard/)
 
 ### React :
 
