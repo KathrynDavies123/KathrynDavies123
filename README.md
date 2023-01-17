@@ -41,10 +41,6 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 
 ![Screenshot 2022-11-30 150652](https://user-images.githubusercontent.com/103680044/204816994-4418563e-acee-433a-b4ca-c6b50a56772c.png)
 
-##### News Homepage (HTML & CSS) - some JS used for mobile burger menu
-* [Repo](https://github.com/KathrynDavies123/news-homepage-main)
-* [Page](https://kathryndavies123.github.io/news-homepage-main/)
-
 ### Javascript : 
 
 ##### FAQ Accordion Component
