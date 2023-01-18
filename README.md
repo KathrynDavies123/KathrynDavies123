@@ -43,18 +43,6 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 
 ### Javascript : 
 
-##### FAQ Accordion Component
-* [Repo](https://github.com/KathrynDavies123/faq-accordion-card)
-* [Page](https://kathryndavies123.github.io/faq-accordion-card/)  
-
-![Screenshot 2022-11-30 150408](https://user-images.githubusercontent.com/103680044/204816465-0c0eb765-9224-4f59-ad30-32c0c2795595.png)
-
-##### Interactive Rating Component
-* [Repo](https://github.com/KathrynDavies123/interactive-rating-component)
-* [Page](https://kathryndavies123.github.io/interactive-rating-component/)  
-
-![rating](https://user-images.githubusercontent.com/103680044/204277599-90dce12a-3058-45bd-8a3b-0d93f1a03a0c.JPG)![rating2](https://user-images.githubusercontent.com/103680044/204277675-61658263-19a1-42ac-8463-8b5f5e9e3bed.JPG)
-
 ##### Sign up component
 * [Repo](https://github.com/KathrynDavies123/intro-sign-up-form-component)
 * [Page](https://kathryndavies123.github.io/intro-sign-up-form-component/)  
