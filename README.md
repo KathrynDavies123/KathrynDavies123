@@ -43,6 +43,12 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 
 ### Javascript : 
 
+##### Tip calculator 
+* [Repo](https://github.com/KathrynDavies123/tipcalculator)
+* [Page](https://kathryndavies123.github.io/tipcalculator/)
+
+![image](https://user-images.githubusercontent.com/103680044/213685104-753d04a7-9358-4ddc-8007-da9e22b9cd6d.png)
+
 ##### Sign up component
 * [Repo](https://github.com/KathrynDavies123/intro-sign-up-form-component)
 * [Page](https://kathryndavies123.github.io/intro-sign-up-form-component/)  
