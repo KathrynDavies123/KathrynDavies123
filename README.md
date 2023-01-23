@@ -7,29 +7,29 @@ You can contact me here: [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9
 
 ### Full Projects
 
-##### Elearning Landing Page
-* [Repo](https://github.com/KathrynDavies123/skilled-elearning-page)
-* [Page](https://kathryndavies123.github.io/skilled-elearning-page/) 
-* ![image](https://user-images.githubusercontent.com/103680044/207830171-907b4c75-a652-4342-bc2e-07f1b82172b9.png)
+##### Movie Database - (React / API) - Group final project making a movie database website using MovieDB API
+* [Repo](https://github.com/KathrynDavies123/mov)
+* [Page](https://comforting-bombolone-f53d32.netlify.app)![moviedb screenshot](https://user-images.githubusercontent.com/103680044/203564443-c9a1424f-a1ce-44de-b527-2a36fed5b73b.PNG)
+
+##### Rock Paper Scissors (Javascript Vanilla) - Interactive game where the player competes against the computer
+* [Repo](https://github.com/KathrynDavies123/RockPaperScissorsv2)
+* [Page](https://kathryndavies123.github.io/RockPaperScissorsv2/)
 
 ##### Design Portfolio Page with vanilla JS image gallery
 * [Repo](https://github.com/KathrynDavies123/design-portfolio-landing-page)
 * [Page](https://kathryndavies123.github.io/design-portfolio-landing-page/)  
 ![image](https://user-images.githubusercontent.com/103680044/208662737-d81bc96e-6c20-4289-bba2-5e2f975424a5.png)
 
+##### Elearning Landing Page
+* [Repo](https://github.com/KathrynDavies123/skilled-elearning-page)
+* [Page](https://kathryndavies123.github.io/skilled-elearning-page/) 
+* ![image](https://user-images.githubusercontent.com/103680044/207830171-907b4c75-a652-4342-bc2e-07f1b82172b9.png)
+
 ##### Intro page with burger menu on mobile and drop down nav menus (HTML, CSS & Javascript)
 * [Repo](https://github.com/KathrynDavies123/intro-section-with-drop-down-menus)
 * [Page](https://kathryndavies123.github.io/intro-section-with-drop-down-menus/)  
 ![Capture5](https://user-images.githubusercontent.com/103680044/206699987-bc1e8a8a-51b2-45e9-8f32-cb19d47b2e53.JPG)
 ![Capture7](https://user-images.githubusercontent.com/103680044/206700095-ea57855c-164f-4b72-bb6d-37607f6c3c9f.JPG)
-
-##### Rock Paper Scissors (Javascript Vanilla) - Interactive game where the player competes against the computer
-* [Repo](https://github.com/KathrynDavies123/RockPaperScissorsv2)
-* [Page](https://kathryndavies123.github.io/RockPaperScissorsv2/)
-
-##### Movie Database - (React / API) - Group final project making a movie database website using MovieDB API
-* [Repo](https://github.com/KathrynDavies123/mov)
-* [Page](https://comforting-bombolone-f53d32.netlify.app)![moviedb screenshot](https://user-images.githubusercontent.com/103680044/203564443-c9a1424f-a1ce-44de-b527-2a36fed5b73b.PNG)
 
 ### Components/Pages
 
