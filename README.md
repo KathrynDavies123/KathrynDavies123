@@ -5,3 +5,10 @@ I'm a frontend developer with experience in Angular, React, Typescript and Sass.
 Get in touch: 
 [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9285121ba/)
 [Xing](https://www.xing.com/profile/Kathryn_Davies068382/web_profiles?expandNeffi=true)
+
+Currently working on: 
+[Dictionary App](https://github.com/KathrynDavies123/dictionary-app)
+
+Previous projects:
+[Movie database group project](https://github.com/KathrynDavies123/mov)
+[Weather app](https://github.com/KathrynDavies123/weather-app-react)
