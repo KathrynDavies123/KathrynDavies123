@@ -9,8 +9,9 @@ Get in touch:
 [Xing](https://www.xing.com/profile/Kathryn_Davies068382/web_profiles?expandNeffi=true)
 
 Currently working on: 
-[Dictionary App](https://github.com/KathrynDavies123/dictionary-app)
+[Password-Generator App](https://github.com/KathrynDavies123/password-generator-app)
 
 Previous projects:
+[Dictionary App](https://github.com/KathrynDavies123/dictionary-app)
 [Movie database group project](https://github.com/KathrynDavies123/mov)
 [Weather app](https://github.com/KathrynDavies123/weather-app-react)
