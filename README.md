@@ -7,11 +7,3 @@ I'm looking for a frontend developer position to continue my career in an enviro
 Get in touch: 
 [LinkedIn](https://www.linkedin.com/in/kathryn-davies-9285121ba/)
 [Xing](https://www.xing.com/profile/Kathryn_Davies068382/web_profiles?expandNeffi=true)
-
-Currently working on: 
-[Password-Generator App](https://github.com/KathrynDavies123/password-generator-app)
-
-Previous projects:
-[Dictionary App](https://github.com/KathrynDavies123/dictionary-app)
-[Movie database group project](https://github.com/KathrynDavies123/mov)
-[Weather app](https://github.com/KathrynDavies123/weather-app-react)
